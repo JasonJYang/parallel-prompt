@@ -14,10 +14,10 @@ Hi, we have built a web page application which can be used for parallel prompt p
 1) Continue running:  
    `python app.py`
 2) Find the web link in the text displayed by the command line:  
-   `* Running on http://127.0.0.1:5000`
-   Copy the link to open in the browser.
-   Enter the Base URL, KEY of your API and prompt.
-   Select the model name.
-   Upload the file.
-   Click RUN to run, the running time may vary from a few minutes to a few hours, the time depends on the amount of data.
+   `* Running on http://127.0.0.1:5000`  
+   Copy the link to open in the browser.  
+   Enter the Base URL, KEY of your API and prompt.  
+   Select the model name.  
+   Upload the file.  
+   Click RUN to run, the running time may vary from a few minutes to a few hours, the time depends on the amount of data.  
    After running, the download button will appear, download the output.
