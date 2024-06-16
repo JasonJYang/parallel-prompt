@@ -1,6 +1,7 @@
 # Parallel prompt of GPT
-Hi, we have built a web page application which can be used for parallel prompt processing using GPT api.
-我们建立了一个网页实现并行运行ChatGPT Prompt，解决使用ChatGPT api运行代码慢的问题。
+我们建立了一个网页实现并行运行ChatGPT Prompt，解决使用ChatGPT api运行代码慢的问题。  
+Hi, we have built a web page application which can be used for parallel prompt processing using GPT api.  
+The English instruction click here: [README_english](https://github.com/DorisWangDR/parallel-prompt/blob/main/README_english.md)
 
 ## 中文使用说明
 ### 1 安装 
